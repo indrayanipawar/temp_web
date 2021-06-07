@@ -182,4 +182,4 @@ model = load_model("model_weights30k/model_1.h5")
 model.load_weights('model_weights30k/model_30.h5')
 
 
-app.run(host="0.0.0.0", port=5000)
+# app.run(host="0.0.0.0", port=5000)
